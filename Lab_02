@@ -37,13 +37,13 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 4,
+      "execution_count": 2,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "Z_G1ObZoyBJY",
-        "outputId": "1a4b3682-3d4c-47c2-ea00-a1ccb8425767"
+        "outputId": "41b54c93-5b62-4a6d-915b-c9a9b956d298"
       },
       "outputs": [
         {
@@ -123,7 +123,7 @@
         "id": "iZ3kr4MO2pzO",
         "outputId": "facd3c77-a389-4e28-94fc-a0497ccfba96"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -284,9 +284,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "piu6aGMY22X1",
-        "outputId": "e12f3533-3c62-4e1d-8dae-ab8fa2cbfa28"
+        "outputId": "5fc3fbdc-3b06-4393-824e-46f77d0bce22"
       },
-      "execution_count": 3,
+      "execution_count": 1,
       "outputs": [
         {
           "output_type": "stream",
@@ -331,7 +331,7 @@
           "output_type": "stream",
           "name": "stderr",
           "text": [
-            "<ipython-input-3-f1708b19b664>:65: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)\n",
+            "<ipython-input-1-f1708b19b664>:65: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)\n",
             "  blank = int(np.where(puzzle == 0)[0])\n"
           ]
         }
