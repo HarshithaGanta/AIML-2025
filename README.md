@@ -5,3 +5,4 @@
 # [Lab-03](https://colab.research.google.com/drive/1e79I3phcMcUCYttOkqR3JSGxwLDucoqu#scrollTo=bqYtoaujf6Ba):Implement the AI Game Statergy
 # [Lab-04](https://colab.research.google.com/drive/1yjGSMR0wIXtVygLDlVs86ytG0k-FQk-m#scrollTo=PYlOOPq7K2lY):Implement Linear Regression using Boston Housing Data
 # [Lab-05](https://colab.research.google.com/drive/1ckQczk-P6iQiG66xHguQr68MA2ENlI5x#scrollTo=Zzs-MjbtGAeW):Logistic Regression with Titanic data set
+# [Lab-06](https://colab.research.google.com/drive/19Q4EClNkMBhzMdW_GCChoXe7ZZTOzh5Y#scrollTo=oAAQ3H0tLqEG&uniqifier=1): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
